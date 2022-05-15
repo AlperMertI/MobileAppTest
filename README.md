@@ -1,4 +1,4 @@
-# explorify_205
+# explorify
 
 A new Flutter project.
 
